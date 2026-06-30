@@ -1,0 +1,680 @@
+{
+ "recs": [
+  {
+   "titulo": "Gerente del Polo Tecnológico Esperanza (PTE)",
+   "desc": "Representación institucional del Polo ante organismos públicos y privados; gestión del presupuesto, planificación estratégica y programas de incubación y vinculación tecnológica.",
+   "impacto": "",
+   "perfiles": "consultoria",
+   "tipo": "gestion",
+   "fecha": "2025",
+   "sector": "Ecosistema tecnológico / Público"
+  },
+  {
+   "titulo": "Gestor de proyectos – Depto. de Ing. Industrial, UTN FRSF",
+   "desc": "Encargado del área de vinculación tecnológica del Departamento de Ingeniería Industrial.",
+   "impacto": "",
+   "perfiles": "consultoria",
+   "tipo": "gestion",
+   "fecha": "2020",
+   "sector": "Universidad"
+  },
+  {
+   "titulo": "Director y Coordinador de proyectos – UTN FRSF",
+   "desc": "Dirección y coordinación de proyectos de mejora de procesos, gestión de calidad, transformación digital, desarrollo de sistemas informáticos y logística.",
+   "impacto": "",
+   "perfiles": "consultoria",
+   "tipo": "gestion",
+   "fecha": "2020",
+   "sector": "Universidad"
+  },
+  {
+   "titulo": "Programa de formación en herramientas digitales – Grupos Sanatorio Santa Fe",
+   "desc": "Dirección del proyecto y coordinación de equipos de trabajo.",
+   "impacto": "",
+   "perfiles": "consultoria",
+   "tipo": "proyecto_cliente",
+   "fecha": "2025",
+   "sector": "Salud"
+  },
+  {
+   "titulo": "Proyecto de movilidad y seguridad vial – Avellaneda",
+   "desc": "Dirección del proyecto y coordinación de equipos; asesoramiento en ingeniería de tránsito, estudios de movilidad e implementación de equipamiento para el monitoreo de la movilidad y la seguridad vial.",
+   "impacto": "",
+   "perfiles": "consultoria",
+   "tipo": "proyecto_cliente",
+   "fecha": "2020",
+   "sector": "Público / Municipal"
+  },
+  {
+   "titulo": "Encargado del área de proyectos – CITec, UNL-FCV",
+   "desc": "Coordinación del área, vinculación y armado de propuestas con empresas y organizaciones; gestión de los proyectos.",
+   "impacto": "",
+   "perfiles": "consultoria",
+   "tipo": "gestion",
+   "fecha": "2023",
+   "sector": "Universidad"
+  },
+  {
+   "titulo": "Consultoría en IA, productividad y transformación digital – Somos Zeta Digital Advice",
+   "desc": "Cofundador. Capacitación y acompañamiento estratégico en transformación digital. Clientes: CEVA Salud Animal, Contadores David, Asoc. de Oftalmólogos de Santa Fe, Colegio de Ingenieros de SF, Colegio de Médicos Veterinarios de SF, Las Heras, Vicen Agro, Agropecuaria Las Marías, Sembrar (Aceitera Colibrí), ANCA Agronegocios, Mercurio Pinturerías, Gerenciar, Yeruvá, Steffen & Asociados y Nutriar.",
+   "impacto": "",
+   "perfiles": "consultoria",
+   "tipo": "proyecto_cliente",
+   "fecha": "",
+   "sector": "Multisectorial"
+  },
+  {
+   "titulo": "Mejora de procesos y certificación – Aeropuerto de Sauce Viejo",
+   "desc": "Dirección del proyecto y coordinación de un equipo de 5 personas; asesoramiento técnico para la mejora de procesos y el armado del proceso de certificación internacional.",
+   "impacto": "Certificación internacional obtenida en noviembre de 2023.",
+   "perfiles": "consultoria",
+   "tipo": "proyecto_cliente",
+   "fecha": "2022",
+   "sector": "Aeronáutico / Público"
+  },
+  {
+   "titulo": "Mejora de procesos y procedimientos – Esperanza Servicios SAPEM",
+   "desc": "Dirección del proyecto y coordinación de un equipo de 5 personas; diagnóstico inicial de oportunidades de mejora y armado de procedimientos para iniciar la transformación digital.",
+   "impacto": "",
+   "perfiles": "consultoria",
+   "tipo": "proyecto_cliente",
+   "fecha": "2024",
+   "sector": "Servicios públicos"
+  },
+  {
+   "titulo": "Verificaciones técnico-funcionales para certificación de equipos SUBE",
+   "desc": "Dirección del proyecto; certificación de equipos embarcados de la red SUBE mediante protocolos de ensayo de hardware y software definidos por Nación Servicios S.A.",
+   "impacto": "",
+   "perfiles": "consultoria",
+   "tipo": "proyecto_cliente",
+   "fecha": "2015",
+   "sector": "Transporte / Tecnología"
+  },
+  {
+   "titulo": "Sistema de Calidad de la Obra Pública",
+   "desc": "Coordinador del equipo de relevamiento; asesoramiento en el desarrollo de un sistema de trazabilidad de la inversión en obra pública de la provincia de Santa Fe (MISPyH).",
+   "impacto": "",
+   "perfiles": "consultoria",
+   "tipo": "proyecto_cliente",
+   "fecha": "2021",
+   "sector": "Público"
+  },
+  {
+   "titulo": "Relevamiento y diagnóstico de indicadores – MISPyH",
+   "desc": "Coordinador del equipo de relevamiento; diagnóstico de procesos sustantivos de las secretarías y definición de un esquema de indicadores para el monitoreo de la gestión.",
+   "impacto": "",
+   "perfiles": "consultoria",
+   "tipo": "proyecto_cliente",
+   "fecha": "2020",
+   "sector": "Público"
+  },
+  {
+   "titulo": "Calidad y mejora de procesos – Ministerio de Ciencia y Tecnología (CABA)",
+   "desc": "Mejora y rediseño de procesos; implementación y mantenimiento de SGC certificados bajo norma ISO 9001:2015; análisis y propuestas de modificación de estructuras.",
+   "impacto": "",
+   "perfiles": "consultoria",
+   "tipo": "proyecto_cliente",
+   "fecha": "2017",
+   "sector": "Público"
+  },
+  {
+   "titulo": "Calidad y mejora de procesos – ANPCyT",
+   "desc": "Desarrollo de proyectos de certificación de procesos bajo norma ISO 9001 en el marco del Programa de Aseguramiento de la Calidad de los Procesos Sustantivos de la ANPCyT.",
+   "impacto": "",
+   "perfiles": "consultoria",
+   "tipo": "proyecto_cliente",
+   "fecha": "2015",
+   "sector": "Público"
+  },
+  {
+   "titulo": "Gestor de proyectos – CETEN (CABA)",
+   "desc": "Monitoreo de proyectos (tiempos, costos, alcance, cronograma) y gestión basada en la metodología del PMI.",
+   "impacto": "",
+   "perfiles": "consultoria",
+   "tipo": "gestion",
+   "fecha": "2015",
+   "sector": "Tecnología"
+  },
+  {
+   "titulo": "Coordinador del Ciclo de Complementación Curricular en Gestión de la Tecnología – UNRaf",
+   "desc": "Universidad Nacional de Rafaela.",
+   "impacto": "",
+   "perfiles": "docencia",
+   "tipo": "docencia",
+   "fecha": "2020",
+   "sector": ""
+  },
+  {
+   "titulo": "Docente de Cálculo de Costos y Rendimientos – UNRaf",
+   "desc": "Ciclo de Complementación, Lic. en Gestión de la Tecnología.",
+   "impacto": "",
+   "perfiles": "docencia",
+   "tipo": "docencia",
+   "fecha": "2020",
+   "sector": ""
+  },
+  {
+   "titulo": "Docente de Diseño y Administración de Procesos Organizacionales – UNRaf",
+   "desc": "Ciclo de Complementación, Lic. en Gestión y Administración de la Información.",
+   "impacto": "",
+   "perfiles": "docencia",
+   "tipo": "docencia",
+   "fecha": "2023",
+   "sector": ""
+  },
+  {
+   "titulo": "Docente de Marketing y Comercialización – UTN FRSF",
+   "desc": "Carrera de Ingeniería Industrial.",
+   "impacto": "",
+   "perfiles": "docencia",
+   "tipo": "docencia",
+   "fecha": "2017",
+   "sector": ""
+  },
+  {
+   "titulo": "Coordinador de la Tecnicatura Superior en Logística – ITEC El Molino",
+   "desc": "Instituto Tecnológico El Molino.",
+   "impacto": "",
+   "perfiles": "docencia",
+   "tipo": "docencia",
+   "fecha": "2018",
+   "sector": ""
+  },
+  {
+   "titulo": "Docente de Prácticas Profesionales II – ITEC El Molino",
+   "desc": "Tecnicatura Superior en Logística.",
+   "impacto": "",
+   "perfiles": "docencia",
+   "tipo": "docencia",
+   "fecha": "2019",
+   "sector": ""
+  },
+  {
+   "titulo": "Docente de Prácticas Profesionales I – ITEC El Molino",
+   "desc": "Tecnicatura Superior en Logística.",
+   "impacto": "",
+   "perfiles": "docencia",
+   "tipo": "docencia",
+   "fecha": "2026",
+   "sector": ""
+  },
+  {
+   "titulo": "Docente de Marketing y Comercialización – ITEC El Molino",
+   "desc": "Tecnicatura Superior en Logística.",
+   "impacto": "",
+   "perfiles": "docencia",
+   "tipo": "docencia",
+   "fecha": "2019",
+   "sector": ""
+  },
+  {
+   "titulo": "Auxiliar docente – Comercialización – UTN FRSF",
+   "desc": "Carrera de Ingeniería Industrial.",
+   "impacto": "",
+   "perfiles": "docencia",
+   "tipo": "docencia",
+   "fecha": "2014",
+   "sector": ""
+  },
+  {
+   "titulo": "Auxiliar docente – Diseño de Producto – UTN FRSF",
+   "desc": "Carrera de Ingeniería Industrial.",
+   "impacto": "",
+   "perfiles": "docencia",
+   "tipo": "docencia",
+   "fecha": "2010",
+   "sector": ""
+  },
+  {
+   "titulo": "Tutor de Álgebra y Geometría Analítica – UTN FRSF",
+   "desc": "",
+   "impacto": "",
+   "perfiles": "docencia",
+   "tipo": "docencia",
+   "fecha": "2007",
+   "sector": ""
+  },
+  {
+   "titulo": "Docente de Sistemas de Información Logísticos – ADE",
+   "desc": "Asociación Dirigentes de Empresas. Tecnicatura Superior en Logística.",
+   "impacto": "",
+   "perfiles": "docencia",
+   "tipo": "docencia",
+   "fecha": "2019",
+   "sector": ""
+  },
+  {
+   "titulo": "Docente de Informática – ITEC El Molino",
+   "desc": "Tecnicatura Superior en Logística.",
+   "impacto": "",
+   "perfiles": "docencia",
+   "tipo": "docencia",
+   "fecha": "2022",
+   "sector": ""
+  },
+  {
+   "titulo": "Docente de Sistemas de Información Logísticos – ITEC El Molino",
+   "desc": "Tecnicatura Superior en Logística.",
+   "impacto": "",
+   "perfiles": "docencia",
+   "tipo": "docencia",
+   "fecha": "2019",
+   "sector": ""
+  },
+  {
+   "titulo": "Docente de Gestión de Costos – ITEC El Molino",
+   "desc": "Tecnicatura Superior en Gestión Industrial.",
+   "impacto": "",
+   "perfiles": "docencia",
+   "tipo": "docencia",
+   "fecha": "2019",
+   "sector": ""
+  },
+  {
+   "titulo": "Docente de Tecnología de la Información – ITEC El Molino",
+   "desc": "Tecnicatura Superior en Desarrollo de Software.",
+   "impacto": "",
+   "perfiles": "docencia",
+   "tipo": "docencia",
+   "fecha": "2019",
+   "sector": ""
+  },
+  {
+   "titulo": "PID \"Digitalización de la cadena de suministro láctea (Industria 4.0)\"",
+   "desc": "Investigador de apoyo. Dirección: Dr. José Luis Torres y Dra. Erica Fernández.",
+   "impacto": "",
+   "perfiles": "docencia",
+   "tipo": "investigacion",
+   "fecha": "2019",
+   "sector": ""
+  },
+  {
+   "titulo": "CAI+D 2020 \"Itinerarios de formación en la universidad pública\"",
+   "desc": "Miembro del grupo colaborador. INDI – FHUC – UNL. Dirección: Dra. Julia Bernik y Mg. Susana Valentinuz.",
+   "impacto": "",
+   "perfiles": "docencia",
+   "tipo": "investigacion",
+   "fecha": "2019",
+   "sector": ""
+  },
+  {
+   "titulo": "PID \"Aplicación de contenidos de Materias Básicas en los Proyectos Finales de Carrera (UTN FRSF)\"",
+   "desc": "Investigador de apoyo. Dirección: Mg. Sonia Pastorelli y Mg. Marcela Ambrosini.",
+   "impacto": "",
+   "perfiles": "docencia",
+   "tipo": "investigacion",
+   "fecha": "2020",
+   "sector": ""
+  },
+  {
+   "titulo": "PID \"Modelo de eficiencia de producción en industrias madereras (Pyme de la Región Centro)\"",
+   "desc": "Investigador de apoyo. Dirección: Mg. Vanesa Bangert y Mg. Raúl Bustaber.",
+   "impacto": "",
+   "perfiles": "docencia, consultoria",
+   "tipo": "investigacion",
+   "fecha": "2019",
+   "sector": ""
+  },
+  {
+   "titulo": "Charla \"Introducción a la IA y su impacto en el marketing\" – CEVA Salud Animal",
+   "desc": "En el marco de Somos Zeta Digital Advice.",
+   "impacto": "",
+   "perfiles": "consultoria",
+   "tipo": "evento",
+   "fecha": "2024",
+   "sector": "Salud animal / Veterinaria"
+  },
+  {
+   "titulo": "Curso \"Inteligencia Artificial para docentes. Una introducción práctica\" – CITec",
+   "desc": "Dictado en el marco del CITec.",
+   "impacto": "",
+   "perfiles": "docencia, consultoria",
+   "tipo": "evento",
+   "fecha": "2024",
+   "sector": ""
+  },
+  {
+   "titulo": "Charla sobre IA y tecnologías emergentes – Villa Ocampo",
+   "desc": "En el marco de Somos Zeta Digital Advice.",
+   "impacto": "",
+   "perfiles": "consultoria",
+   "tipo": "evento",
+   "fecha": "2024",
+   "sector": ""
+  },
+  {
+   "titulo": "Curso \"IA y herramientas digitales para la productividad y la docencia\" – UTN FRSF",
+   "desc": "Dictado en la Facultad Regional Santa Fe.",
+   "impacto": "",
+   "perfiles": "docencia, consultoria",
+   "tipo": "evento",
+   "fecha": "2024",
+   "sector": ""
+  },
+  {
+   "titulo": "Curso de herramientas digitales y tecnologías emergentes – Aceitera Colibrí",
+   "desc": "En el marco de Somos Zeta Digital Advice.",
+   "impacto": "",
+   "perfiles": "consultoria",
+   "tipo": "evento",
+   "fecha": "2024",
+   "sector": "Agroindustrial / Alimentos"
+  },
+  {
+   "titulo": "Essential Teaching Techniques – Harvard Business Publishing Education",
+   "desc": "10 semanas.",
+   "impacto": "",
+   "perfiles": "docencia",
+   "tipo": "capacitacion",
+   "fecha": "2024",
+   "sector": ""
+  },
+  {
+   "titulo": "Competencias Digitales Docentes – ITEC El Molino",
+   "desc": "Docente: Pedro Figueroa.",
+   "impacto": "",
+   "perfiles": "docencia",
+   "tipo": "capacitacion",
+   "fecha": "2024",
+   "sector": ""
+  },
+  {
+   "titulo": "Introducción a Bases de Datos y SQL – EducationIT",
+   "desc": "20 semanas.",
+   "impacto": "",
+   "perfiles": "consultoria",
+   "tipo": "capacitacion",
+   "fecha": "2024",
+   "sector": ""
+  },
+  {
+   "titulo": "Introducción a la Inteligencia Artificial – EducationIT",
+   "desc": "20 semanas.",
+   "impacto": "",
+   "perfiles": "consultoria",
+   "tipo": "capacitacion",
+   "fecha": "2024",
+   "sector": ""
+  },
+  {
+   "titulo": "Procesamiento didáctico para una propuesta de Educación a Distancia",
+   "desc": "",
+   "impacto": "",
+   "perfiles": "docencia",
+   "tipo": "capacitacion",
+   "fecha": "2023",
+   "sector": ""
+  },
+  {
+   "titulo": "Planificación y prácticas de la enseñanza mediante un enfoque en competencias",
+   "desc": "",
+   "impacto": "",
+   "perfiles": "docencia",
+   "tipo": "capacitacion",
+   "fecha": "2023",
+   "sector": ""
+  },
+  {
+   "titulo": "Power BI Intermedio – EducationIT",
+   "desc": "16 semanas.",
+   "impacto": "",
+   "perfiles": "consultoria",
+   "tipo": "capacitacion",
+   "fecha": "2022",
+   "sector": ""
+  },
+  {
+   "titulo": "Maestría Binacional en Informática Industrial – UTN FRSF",
+   "desc": "Mención Sistemas Físicos-Cibernéticos Industriales. Cursos realizados: Introducción a la programación, Minería de Grandes Volúmenes de Datos, Programación en C, Programación de PLC.",
+   "impacto": "",
+   "perfiles": "consultoria",
+   "tipo": "capacitacion",
+   "fecha": "",
+   "sector": ""
+  },
+  {
+   "titulo": "Planificación y prácticas de la enseñanza en contextos de hibridación y bimodalidad – UTN",
+   "desc": "8 semanas.",
+   "impacto": "",
+   "perfiles": "docencia",
+   "tipo": "capacitacion",
+   "fecha": "2022",
+   "sector": ""
+  },
+  {
+   "titulo": "Curso de verano de inglés – Centro de Idiomas UNL",
+   "desc": "",
+   "impacto": "",
+   "perfiles": "docencia, consultoria",
+   "tipo": "capacitacion",
+   "fecha": "2022",
+   "sector": ""
+  },
+  {
+   "titulo": "Formación de articuladores \"Digitalizando Industrias de Santa Fe\"",
+   "desc": "10 horas.",
+   "impacto": "",
+   "perfiles": "consultoria",
+   "tipo": "capacitacion",
+   "fecha": "2021",
+   "sector": ""
+  },
+  {
+   "titulo": "Experto en Project Management – UTN",
+   "desc": "16 semanas.",
+   "impacto": "",
+   "perfiles": "consultoria",
+   "tipo": "capacitacion",
+   "fecha": "2019",
+   "sector": ""
+  },
+  {
+   "titulo": "Gestión de la innovación – UTN",
+   "desc": "16 semanas.",
+   "impacto": "",
+   "perfiles": "consultoria",
+   "tipo": "capacitacion",
+   "fecha": "2019",
+   "sector": ""
+  },
+  {
+   "titulo": "Evaluación de capacidades profesionales – EnFoCo",
+   "desc": "8 semanas.",
+   "impacto": "",
+   "perfiles": "consultoria",
+   "tipo": "capacitacion",
+   "fecha": "2019",
+   "sector": ""
+  },
+  {
+   "titulo": "Norma IRAM-ISO/27002 – Gestión de la Seguridad de la Información – IRAM",
+   "desc": "16 horas.",
+   "impacto": "",
+   "perfiles": "consultoria",
+   "tipo": "capacitacion",
+   "fecha": "2018",
+   "sector": ""
+  },
+  {
+   "titulo": "Norma IRAM-ISO 50001 – Sistemas de gestión de la energía – IRAM",
+   "desc": "16 horas.",
+   "impacto": "",
+   "perfiles": "consultoria",
+   "tipo": "capacitacion",
+   "fecha": "2018",
+   "sector": ""
+  },
+  {
+   "titulo": "Introducción a la enseñanza centrada en el alumno – UTN",
+   "desc": "8 semanas.",
+   "impacto": "",
+   "perfiles": "docencia",
+   "tipo": "capacitacion",
+   "fecha": "2018",
+   "sector": ""
+  },
+  {
+   "titulo": "Producción de videos educativos – UTN",
+   "desc": "2 semanas.",
+   "impacto": "",
+   "perfiles": "docencia",
+   "tipo": "capacitacion",
+   "fecha": "2018",
+   "sector": ""
+  },
+  {
+   "titulo": "Inglés – UTN, Módulo A2-1",
+   "desc": "24 semanas.",
+   "impacto": "",
+   "perfiles": "docencia, consultoria",
+   "tipo": "capacitacion",
+   "fecha": "2018",
+   "sector": ""
+  },
+  {
+   "titulo": "Taller de Reingeniería de Procesos – IRAM",
+   "desc": "16 horas.",
+   "impacto": "",
+   "perfiles": "consultoria",
+   "tipo": "capacitacion",
+   "fecha": "2017",
+   "sector": ""
+  },
+  {
+   "titulo": "Transición a la norma ISO 9001:2015 – IRAM",
+   "desc": "8 horas.",
+   "impacto": "",
+   "perfiles": "consultoria",
+   "tipo": "capacitacion",
+   "fecha": "2017",
+   "sector": ""
+  },
+  {
+   "titulo": "Taller ISO 9001:2008 en la Práctica – IRAM",
+   "desc": "16 horas.",
+   "impacto": "",
+   "perfiles": "consultoria",
+   "tipo": "capacitacion",
+   "fecha": "2012",
+   "sector": ""
+  },
+  {
+   "titulo": "4to Congreso Nacional de Sistemas de Gestión y Mejora Continua – CABA",
+   "desc": "La gestión de los servicios como factor clave para mejorar la competitividad.",
+   "impacto": "",
+   "perfiles": "consultoria",
+   "tipo": "capacitacion",
+   "fecha": "2013",
+   "sector": ""
+  }
+ ],
+ "estudios": [
+  {
+   "titulo": "Magíster en Docencia Universitaria",
+   "inst": "Facultad de Humanidades y Ciencias, Universidad Nacional del Litoral",
+   "fin": "2025"
+  },
+  {
+   "titulo": "Ingeniero Industrial",
+   "inst": "Universidad Tecnológica Nacional – Facultad Regional Santa Fe",
+   "fin": "2014"
+  },
+  {
+   "titulo": "Técnico en Equipos e Instalaciones Electromecánicas",
+   "inst": "EET Nro. 455, Esperanza, Santa Fe",
+   "fin": "2005"
+  }
+ ],
+ "habil": [
+  {
+   "nombre": "IA generativa y automatización (GPT, Gemini, Claude, Make)",
+   "cat": "tecnica",
+   "nivel": ""
+  },
+  {
+   "nombre": "Gestión de proyectos (PMI) y metodologías ágiles (Scrum)",
+   "cat": "tecnica",
+   "nivel": ""
+  },
+  {
+   "nombre": "Sistemas de gestión de calidad (ISO 9001)",
+   "cat": "tecnica",
+   "nivel": ""
+  },
+  {
+   "nombre": "Análisis y visualización de datos (Power BI, Looker Studio, MicroStrategy)",
+   "cat": "tecnica",
+   "nivel": ""
+  },
+  {
+   "nombre": "CRM / ERP (Odoo, HubSpot, Bitrix24, Calipso)",
+   "cat": "tecnica",
+   "nivel": ""
+  },
+  {
+   "nombre": "Microsoft Office (Word, Excel, Access, Project, PowerPoint, Visio)",
+   "cat": "tecnica",
+   "nivel": ""
+  },
+  {
+   "nombre": "Herramientas de gestión y productividad (Notion, Trello, Todoist)",
+   "cat": "tecnica",
+   "nivel": ""
+  },
+  {
+   "nombre": "Plataformas educativas (Moodle, Educativa, MS Teams, Classroom)",
+   "cat": "tecnica",
+   "nivel": ""
+  },
+  {
+   "nombre": "Diseño CAD (AutoCAD 2D/3D, SolidWorks)",
+   "cat": "tecnica",
+   "nivel": ""
+  },
+  {
+   "nombre": "Diseño gráfico (CorelDraw, Illustrator, Photoshop)",
+   "cat": "tecnica",
+   "nivel": ""
+  },
+  {
+   "nombre": "Adaptabilidad y flexibilidad",
+   "cat": "blanda",
+   "nivel": ""
+  },
+  {
+   "nombre": "Comunicación y liderazgo",
+   "cat": "blanda",
+   "nivel": ""
+  },
+  {
+   "nombre": "Mejora continua y gestión de calidad",
+   "cat": "blanda",
+   "nivel": ""
+  },
+  {
+   "nombre": "Organización y gestión del tiempo",
+   "cat": "blanda",
+   "nivel": ""
+  },
+  {
+   "nombre": "Trabajo interdisciplinario y colaborativo",
+   "cat": "blanda",
+   "nivel": ""
+  },
+  {
+   "nombre": "Pensamiento analítico y resolución de problemas",
+   "cat": "blanda",
+   "nivel": ""
+  },
+  {
+   "nombre": "Innovación y creatividad",
+   "cat": "blanda",
+   "nivel": ""
+  },
+  {
+   "nombre": "Inglés",
+   "cat": "idioma",
+   "nivel": "Intermedio"
+  }
+ ]
+}

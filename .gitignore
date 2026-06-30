@@ -1,0 +1,10 @@
+# Temporales / sistema
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+
+# Archivos de origen no necesarios para publicar (opcional)
+# (se dejan versionados por defecto; descomentar para excluirlos)
+# Somos Zeta - Paleta cromática.pdf
+# BD_CV_Leonardo_Zequin.xlsx
